@@ -1,2 +1,2 @@
-# hosting.docs
-Documentation for Vostok.Hosting libraries.
+# Initial page
+
